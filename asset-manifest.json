@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.dde5eb1a.chunk.css",
-    "main.js": "/static/js/main.823002d4.chunk.js",
-    "main.js.map": "/static/js/main.823002d4.chunk.js.map",
+    "main.js": "/static/js/main.ca7b9151.chunk.js",
+    "main.js.map": "/static/js/main.ca7b9151.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1e367c3e.js",
     "runtime-main.js.map": "/static/js/runtime-main.1e367c3e.js.map",
     "static/js/2.eccca75d.chunk.js": "/static/js/2.eccca75d.chunk.js",
@@ -13,15 +13,17 @@
     "static/css/main.dde5eb1a.chunk.css.map": "/static/css/main.dde5eb1a.chunk.css.map",
     "static/js/2.eccca75d.chunk.js.LICENSE.txt": "/static/js/2.eccca75d.chunk.js.LICENSE.txt",
     "static/media/Gears.0c2bf478.svg": "/static/media/Gears.0c2bf478.svg",
+    "static/media/Logo.d8062b34.svg": "/static/media/Logo.d8062b34.svg",
     "static/media/MetaMaskWire.fa11aa62.svg": "/static/media/MetaMaskWire.fa11aa62.svg",
     "static/media/PrevKey.dd6cc0a4.svg": "/static/media/PrevKey.dd6cc0a4.svg",
     "static/media/RPCWire.e5d0492d.svg": "/static/media/RPCWire.e5d0492d.svg",
+    "static/media/Settings.8d9aa79c.svg": "/static/media/Settings.8d9aa79c.svg",
     "static/media/Wallet.73ea3913.svg": "/static/media/Wallet.73ea3913.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.1e367c3e.js",
     "static/js/2.eccca75d.chunk.js",
     "static/css/main.dde5eb1a.chunk.css",
-    "static/js/main.823002d4.chunk.js"
+    "static/js/main.ca7b9151.chunk.js"
   ]
 }
