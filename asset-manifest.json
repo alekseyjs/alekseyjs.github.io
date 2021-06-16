@@ -1,31 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.9c5046bc.chunk.css",
-    "main.js": "/static/js/main.b31f9bd3.chunk.js",
-    "main.js.map": "/static/js/main.b31f9bd3.chunk.js.map",
+    "main.css": "/static/css/main.3c7c4e1b.chunk.css",
+    "main.js": "/static/js/main.d736dbe4.chunk.js",
+    "main.js.map": "/static/js/main.d736dbe4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.81882527.js",
     "runtime-main.js.map": "/static/js/runtime-main.81882527.js.map",
-    "static/js/2.6a529509.chunk.js": "/static/js/2.6a529509.chunk.js",
-    "static/js/2.6a529509.chunk.js.map": "/static/js/2.6a529509.chunk.js.map",
+    "static/js/2.0f484457.chunk.js": "/static/js/2.0f484457.chunk.js",
+    "static/js/2.0f484457.chunk.js.map": "/static/js/2.0f484457.chunk.js.map",
     "static/js/3.5fc56fad.chunk.js": "/static/js/3.5fc56fad.chunk.js",
     "static/js/3.5fc56fad.chunk.js.map": "/static/js/3.5fc56fad.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.9c5046bc.chunk.css.map": "/static/css/main.9c5046bc.chunk.css.map",
-    "static/js/2.6a529509.chunk.js.LICENSE.txt": "/static/js/2.6a529509.chunk.js.LICENSE.txt",
+    "static/css/main.3c7c4e1b.chunk.css.map": "/static/css/main.3c7c4e1b.chunk.css.map",
+    "static/js/2.0f484457.chunk.js.LICENSE.txt": "/static/js/2.0f484457.chunk.js.LICENSE.txt",
     "static/media/BackArrow.0d2a11b3.svg": "/static/media/BackArrow.0d2a11b3.svg",
-    "static/media/Gears.0c2bf478.svg": "/static/media/Gears.0c2bf478.svg",
-    "static/media/Logo.d8062b34.svg": "/static/media/Logo.d8062b34.svg",
-    "static/media/MetaMaskWire.fa11aa62.svg": "/static/media/MetaMaskWire.fa11aa62.svg",
-    "static/media/PrevKey.dd6cc0a4.svg": "/static/media/PrevKey.dd6cc0a4.svg",
-    "static/media/RPCWire.e5d0492d.svg": "/static/media/RPCWire.e5d0492d.svg",
+    "static/media/Gears.7a634624.svg": "/static/media/Gears.7a634624.svg",
+    "static/media/Logo.973b55d4.png": "/static/media/Logo.973b55d4.png",
+    "static/media/MetaMaskWire.f85e4a11.svg": "/static/media/MetaMaskWire.f85e4a11.svg",
+    "static/media/PrevKey.836a7ccb.svg": "/static/media/PrevKey.836a7ccb.svg",
+    "static/media/RPCWire.e9fc2979.svg": "/static/media/RPCWire.e9fc2979.svg",
     "static/media/Settings.8d9aa79c.svg": "/static/media/Settings.8d9aa79c.svg",
-    "static/media/Wallet.73ea3913.svg": "/static/media/Wallet.73ea3913.svg",
+    "static/media/Wallet.30b645d8.svg": "/static/media/Wallet.30b645d8.svg",
     "static/media/Warning.262970c4.svg": "/static/media/Warning.262970c4.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.81882527.js",
-    "static/js/2.6a529509.chunk.js",
-    "static/css/main.9c5046bc.chunk.css",
-    "static/js/main.b31f9bd3.chunk.js"
+    "static/js/2.0f484457.chunk.js",
+    "static/css/main.3c7c4e1b.chunk.css",
+    "static/js/main.d736dbe4.chunk.js"
   ]
 }
